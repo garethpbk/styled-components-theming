@@ -4,6 +4,8 @@ One of the most popular CSS-in-JS solutions out there is [styled-components](htt
 
 My motivation for this pattern was to achieve the same ease that Sass and Stylus offer for writing functional CSS; I believe that the combination of `styled-components` and `polished` comes really close.
 
+Project repo available at [https://github.com/garethpbk/styled-components-theming.git](https://github.com/garethpbk/styled-components-theming.git)
+
 ## Project Setup
 
 Set up a new `create-react-app` project and add the dependencies (or add to an existing project) - go ahead and delete everything except `App.js` and `index.js` in _/src_:
